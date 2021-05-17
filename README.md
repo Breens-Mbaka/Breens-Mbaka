@@ -15,6 +15,5 @@
 - 📫 Reach me: [twitter.com/BreensR](https://twitter.com/BreensR)
 - ⚡️ Fun fact: I'm a huge fan of Home Alone
 
-<details>
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-</details>
+
+<img align="left" alt="Breens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Breens-Mbaka&show_icons=true&hide_border=true" />
