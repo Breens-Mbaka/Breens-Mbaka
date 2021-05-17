@@ -1,23 +1,19 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm an Android Developer working in Nairobi, Kenya.
 
-##### NOW
+##### About
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- ✨ An  Android developer looking to positively impact the community by solving real-world problems in the most efficient way
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🏢 I'm currently open for Android development roles
+- ⚙️ I use daily: `Kotlin`, `Retrofit`, `Material design`, `Glide/Picasso`
+- 🌍 I'm mostly active within the **Android254 Community**
+- 🌱 Learning all about **Open Source** **Software Architecture**
+- 📫 Reach me: [twitter.com/BreensR](https://twitter.com/BreensR)
+- ⚡️ Fun fact: I'm a huge fan of Home Alone
 
 <details>
   <summary>:zap: GitHub Stats</summary>
