@@ -4,7 +4,7 @@
 
 ##### About
 
-- ✨ An  Android developer looking to positively impact the community by solving real-world problems in the most efficient way
+✨ An  Android developer looking to positively impact the community by solving real-world problems in the most efficient way
 
 ##### BIO
 
@@ -16,8 +16,5 @@
 - ⚡️ Fun fact: I'm a huge fan of Home Alone
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
 </details>
