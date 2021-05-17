@@ -14,7 +14,7 @@
 - ⚡️ Fun fact: I'm a huge fan of Home Alone
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <img align="left" alt="Breens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Breens-Mbaka&show_icons=true&hide_border=true" />
