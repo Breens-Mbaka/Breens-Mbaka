@@ -21,6 +21,6 @@
 
 ### Get in touch
 <p>
-  <a href="https://twitter.com/breensr"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/breensmbaka"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/BreensR"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/breens-mbaka-b447781b9/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
 <p>
