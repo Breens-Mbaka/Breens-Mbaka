@@ -13,4 +13,10 @@
 - 💬 Ask me about ... Anything
 - ⚡️ Fun fact: I'm a huge fan of Home Alone
 
-<img align="left" alt="Breens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Breens-Mbaka&show_icons=true&hide_border=true" />
+### :octocat: My stats
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=linusmuema&show_icons=true"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linusmuema&hide=css&layout=compact"/></td>      
+  </tr>   
+</table>
