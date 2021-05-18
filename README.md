@@ -1,6 +1,6 @@
 ### Hello Universe, I'm Breens 👋
 
-#### I'm a Life-long learner, Developer and Go-Karting racer.
+#### I'm a Life-long learner, Android Developer and Go-Karting racer.
 
 
 ### BIO
