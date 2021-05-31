@@ -2,6 +2,7 @@
 
 ```
   • 😎 I'm an Android developer and looking to solve problems
+  • Currently learning Flutter for IOS and Android development
 ```
 
 ### :octocat: My stats
