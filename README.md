@@ -2,7 +2,7 @@
 
 ```
   • 😎 I'm an Android developer and looking to solve problems
-  • Currently learning Flutter for IOS and Android development
+  • Currently undertaking the Google Africa Developer Schoralship 2021, to be a certified Android Developer
 ```
 
 ### :octocat: My stats
