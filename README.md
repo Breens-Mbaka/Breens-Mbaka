@@ -3,7 +3,7 @@
 ```
   • 😎 I'm an Android developer and looking to solve problems
   • Currently undertaking the Google Africa Developer Schoralship 2021, to be a certified Android Developer
-  • Also learning some Backend development with Java
+  • Also learning how to build cross-platform mobile applications using Flutter and Dart
   • Looking to contribute to Open Sources Software
 ```
 
