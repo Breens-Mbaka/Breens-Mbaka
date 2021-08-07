@@ -1,10 +1,8 @@
 # Hello World!😃
 
 ```
-  • 😎 I'm an Android Software Developer and looking to solve problems
+  • 😎 I'm an Android Software Developer looking to solve real world problems
   • Currently undertaking the Google Africa Developer Schoralship 2021, to be a certified Android Developer
-  • Also learning some Backend development with Java and Spring Boot
-  • Looking to contribute to Open Sources Software
 ```
 
 ### :octocat: My stats
