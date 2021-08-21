@@ -1,8 +1,7 @@
 # Hello World!😃
 
 ```
-  • 😎 I'm an Android Software Developer looking to solve real world problems
-  • Currently undertaking the Google Africa Developer Schoralship 2021, to be a certified Android Developer
+  • I'm an Android Software Developer looking to solve real world problems
 ```
 
 ### :octocat: My stats
