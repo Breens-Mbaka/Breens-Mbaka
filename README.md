@@ -2,6 +2,8 @@
 
 ```
   • I'm an Android Software Developer looking to solve real world problems
+  • Currently upskilling in GADS 2021 Program
+  • Feel free to connect
 ```
 
 ### :octocat: My stats
