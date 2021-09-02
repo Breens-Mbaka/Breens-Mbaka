@@ -2,7 +2,6 @@
 
 ```
   • I'm an Android Software Developer looking to solve real world problems
-  • Currently learning Kotlin
 ```
 
 ### :octocat: My stats
