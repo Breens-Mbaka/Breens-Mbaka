@@ -1,16 +1,15 @@
-# Hello World!😃
+### Hi There! 👋
 
-```
-  • I'm an Android Software Developer looking to solve real world problems
+- 🔭 I’m currently working on Swiftscore livescore and football stats app
+- 🌱 I’m currently learning Dependency Injection
+- 👯 I’m looking to find my first position as an Android developer
+- 🤔 I’m looking for help with writing efficient Unit tests
+- 💬 Ask me about topics about Android, cooking, productivity, and football.
+- 📫 How to reach me: Email - mbakabreens@gmail.com | Twitter - @BreensR
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I used to want to be a barista didn't tell anyone.
 ```
 
-### :octocat: My stats
-  <table>
-  <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Breens-Mbaka&show_icons=true"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breens-Mbaka&hide=css&layout=compact"/></td>      
-  </tr>   
-</table>
 
 ### Get in touch
 <p>
