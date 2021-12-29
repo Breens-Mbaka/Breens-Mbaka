@@ -6,6 +6,8 @@
 
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breensmbaka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=breens-mbaka&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=o0iyiufnkn0ti8vf15r2w3ook)
