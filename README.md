@@ -15,7 +15,7 @@
 
 ## Reach me via 👇🏻
 
-[![Linkedin](https://raw.githubusercontent.com/Shubham0812/SearchX/master/linkedIn.png)](https://www.linkedin.com/in/shubham0812/)
+[![Linkedin](https://raw.githubusercontent.com/Shubham0812/SearchX/master/linkedIn.png)](https://www.linkedin.com/in/breens-mbaka/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breens-mbaka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
