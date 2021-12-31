@@ -11,7 +11,7 @@
 
 * 💁🏻I share Insights, Apps, and my Android development journey in my [Twitter](https://twitter.com/BreensR).
 
-* I also do create tutorials on Modern Android Development on my Youtube channel [Youtube](https://www.youtube.com/channel/UCyPt1hX4foGlNPBGoVpEDUw/videos).
+* I also do occassionally create tutorials on Modern Android Development on my Youtube channel [Youtube](https://www.youtube.com/channel/UCyPt1hX4foGlNPBGoVpEDUw/videos).
 
 ## Reach me via 👇🏻
 
