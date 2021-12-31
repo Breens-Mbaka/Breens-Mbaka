@@ -6,7 +6,7 @@
 * 🔭 I’m currently working on Anime Follow a place to search for new animes & mangas while recommending them to your friends
 
 * ✨ UI / UX Enthusiast
-* 
+
 * 🌱 I’m currently learning how to write unit tests and also app modularization
 
 * 💁🏻I share Insights, Apps, and my Android development journey in my [Twitter](https://twitter.com/BreensR).
