@@ -13,7 +13,7 @@
 
 * I also do occassionally create tutorials on Modern Android Development on my Youtube channel and some of the side projects I've built [Youtube](https://www.youtube.com/channel/UCyPt1hX4foGlNPBGoVpEDUw/videos).
 
-* 😁 When I get a great PC I would love to stream on Twitch creating my side-projects my inspiration mainly comes from problems I face personally or I come across or my friends & family face(fingers crossed)
+* 😁 When I get a great PC I would love to stream on Twitch creating my side-projects in public. My inspiration mainly comes from problems I face personally or that I come across or what my friends & family face(fingers crossed)
 
 ## Reach me via 👇🏻
 
