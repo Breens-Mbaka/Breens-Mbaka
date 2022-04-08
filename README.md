@@ -13,8 +13,4 @@
 
 * 😁 When I get a great PC I would love to stream on Twitch creating my side-projects in public. My inspiration mainly comes from problems I face personally or that I come across or what my friends & family face(fingers crossed)
 
-## Reach me via 👇🏻
-
-[![Linkedin](https://raw.githubusercontent.com/Shubham0812/SearchX/master/linkedIn.png)](https://www.linkedin.com/in/breens-mbaka/)
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=o0iyiufnkn0ti8vf15r2w3ook)
