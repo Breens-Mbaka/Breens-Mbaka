@@ -1,5 +1,3 @@
-**e** 👋🏻
-
 ## About Me 😁
 * 📱 Android Developer
 
