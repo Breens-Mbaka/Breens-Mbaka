@@ -1,4 +1,4 @@
-## About Me 😁
+## About Me
 * 📱 Android Developer
 
 * I share Insights, Apps, and my Android development journey in my [Twitter](https://twitter.com/BreensR).
