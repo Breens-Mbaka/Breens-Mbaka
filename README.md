@@ -1,5 +1,5 @@
 ## About Me
-* 📱 Android Developer and full time human being😇
+* 📱 I'm an Android Developer and full time human being😇
 
 * I share my Android Development journey on [Twitter](https://twitter.com/BreensR). Especially things that I've learnt and updates on my tutorials (it's a faster way to reach out to me)
 
